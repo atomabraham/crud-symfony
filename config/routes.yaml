@@ -1,0 +1,11 @@
+controllers:
+    resource:
+        path: ../src/Controller/
+        namespace: App\Controller
+    type: attribute
+
+# Article_list:
+#     resource:
+#         path: /
+#         namespace: App\Controller\ArticleController:index
+#     type: attribute
